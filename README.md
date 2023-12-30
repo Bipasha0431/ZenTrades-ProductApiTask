@@ -28,4 +28,4 @@ In the project directory :
     - npm start
 
 
-![image](https://github.com/Bipasha0431/ZenTrades-ProductApiTask/assets/88484722/146b3a3c-98dc-41b0-9eb7-805283fb7a01)
+
