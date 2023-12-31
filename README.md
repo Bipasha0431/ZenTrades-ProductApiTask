@@ -27,5 +27,16 @@ In the project directory :
     - npm install
     - npm start
 
+![Screenshot 2023-12-30 013156](https://github.com/Bipasha0431/ZenTrades-ProductApiTask/assets/88484722/b50adce6-ac7e-41a9-8c5d-f1f3b085f7c7)
+
+
+
+### Database
+
+![image](https://github.com/Bipasha0431/ZenTrades-ProductApiTask/assets/88484722/bdad6e5e-b664-4044-b0c5-1bdbfd02ac18)
+
+
+![image](https://github.com/Bipasha0431/ZenTrades-ProductApiTask/assets/88484722/0c0f4509-af87-484f-8f66-8aba191f572a)
+
 
 
