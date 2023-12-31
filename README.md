@@ -1,4 +1,4 @@
-The Goal is to create a React application that displays a list of products. The application fetches product data from an API, stores it and displays it in a table.
+The goal is to create an application that displays a list of products. The application fetches product data from an API, stores it and displays it in a table.
 
 Built using MERN stack. MERN stands for MongoDB, Express, React, and Node, after the four key technologies that make up the stack.
 
